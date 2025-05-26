@@ -6,3 +6,4 @@
 * salt (2)
 
 ## Instuctions
+* put one avocado into a bowl
