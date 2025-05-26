@@ -6,3 +6,5 @@
 * salt (2)
 
 ## Instuctions
+
+* peel the avocados 
